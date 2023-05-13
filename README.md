@@ -2,7 +2,7 @@
 Link githbub cuối kì nhóm Homies - PTƯD Di động
 # Nguyễn Trọng Nghĩa - 47.01.104.140
 fullstack
-# Hồ Trần Gia Khánh - 47.01.104.140
+# Hồ Trần Gia Khánh - 47.01.104.111
 fullstack
 # Đỗ Huỳnh Khải - 47.01.104.105
 full stack
